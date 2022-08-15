@@ -10,4 +10,13 @@ Automation of Society Security Tasks – Visitors in a housing society fall in t
     Visitors arriving one-by-one
     Continuous power supply and WiFi available to Raspberry Pi
     Any mobile like device is available with watchman
+## Proposed Solution
+* Hierarchy of users with different access rights
+* Camera module and contactless temperature sensor mounted on a single device(Raspberry Pi) ➡ ensures automatic synchronization
+* Efficient face recognition using AWS Face Rekognition API
+* Increases incident response and resolution time.
+* Temperature data analysis to trace any Covid-19 cases.
+* Handling irregular visitors seamlessly
+
+
 
